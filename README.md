@@ -1,2 +1,2 @@
-# Task-Management-App
+# ToDoApp
 Task Management App built in Kotlin
